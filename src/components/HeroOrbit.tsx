@@ -31,7 +31,7 @@ export const HeroOrbit
             >
                 <div className="flex items-start justify-start"
                     style={{
-                        transform: `rotate(${rotation}deg`,
+                        transform: `rotate(${rotation})deg`,
                         height: `${size}px`,
                         width: `${size}px `,
                     }}
