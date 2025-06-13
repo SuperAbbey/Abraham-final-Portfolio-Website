@@ -30,7 +30,7 @@ const portfolioProjects = [
             { title: "Engineered a custom Arduino-based system with integrated sensors and Geiger counter based on C language." },
             { title: "Ensured mission success through real-time tracking and collaboration with March Air Force Base" },
         ],
-        link: "https://frontend-tribe-ai-startup-landing-f-ten.vercel.app/#,
+         link: "https://frontend-tribe-ai-startup-landing-f-ten.vercel.app/#",
         image: lightSaasLandingPage,
     },
     {
